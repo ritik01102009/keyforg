@@ -1,0 +1,6 @@
+{
+  "name": "Otari Studio - AI Gateway & Assistant",
+  "description": "Interactive multi-model AI assistant powered by the Otari LLM Gateway with virtual key management, budget enforcement, and live token cost tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
